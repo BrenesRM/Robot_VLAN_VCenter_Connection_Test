@@ -17,6 +17,6 @@ foreach($mVlan in $VLANS){
 
 ###Doc the process
 
-# VRA New machine.
+# You need a New machine.
 # Start the process of the script.
 # Send the XML result to analizer logs for the indexation and monitoring.
